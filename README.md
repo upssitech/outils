@@ -1,3 +1,4 @@
+<img src="https://github.com/truillet/upssitech/blob/master/logo_upssitech.png" width=150>
 
 ## Banques d'outils (images, documents) de l'UPSSITECH
 * [les logos et images](https://github.com/upssitech/outils/tree/master/logo)
