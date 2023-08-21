@@ -4,7 +4,7 @@
 * [les logos et images](https://github.com/upssitech/outils/tree/master/logo)
 
 ## web et VM
-* [site web](https://www.upssitech.eu)
+* [site web de l'école](https://www.upssitech.eu)
 * Rasa
 
 ## Réseaux Sociaux
