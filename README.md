@@ -5,7 +5,6 @@
 
 ## web et VM
 * [site web](https://www.upssitech.eu)
-* Mahara
 * Rasa
 
 ## Réseaux Sociaux
