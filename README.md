@@ -5,7 +5,7 @@
 
 ## web et VM
 * [site web de l'école](https://www.upssitech.eu)
-* Rasa
+* [serveur MQTT](mqtt://mqtt.upssitech.fr)
 
 ## Réseaux Sociaux
 * [Instagram](https://www.instagram.com/upssitech)
