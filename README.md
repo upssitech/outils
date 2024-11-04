@@ -5,7 +5,7 @@
 
 ## web et VM
 * [site web de l'école](https://www.upssitech.eu)
-* [serveur MQTT](mqtt://mqtt.upssitech.fr)
+* **serveur MQTT** : mqtt://mqtt.upssitech.fr (login/password sur demande)
 
 ## Réseaux Sociaux
 * [Instagram](https://www.instagram.com/upssitech)
