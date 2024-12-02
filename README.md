@@ -11,7 +11,6 @@
 * [Instagram](https://www.instagram.com/upssitech)
 * [LinkedIn](https://www.linkedin.com/school/upssitech)
 * [Twitch](https://www.twitch.tv/upssitech)
-* [Twitter](https://twitter.com/upssitech)
 
 ## Clusters
 * [Digital 113](https://www.digital113.fr/entreprise/upssitech-2)
