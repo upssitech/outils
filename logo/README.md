@@ -10,5 +10,6 @@
   * [logo upssitech en svg](logoUpssitech_plein_sans_EI.svg), logo vectorisé en noir sans la mention "Ecole d'Ingénieurs" pour les grandes et petites impressions
 
 # Logos UT (site)
+* [icône UT](UT-favicon.png), icône pour site web
 * **png** : [logo UT en png](logo-UT-site.png)
 * **svg** : [logo UT en svg](logo-UT-site.svg), logo vectorisé
