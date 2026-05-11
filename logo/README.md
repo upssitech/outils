@@ -3,7 +3,7 @@
 * **dxf** : [logo upssitech en dxf](logoUpssitech.dxf), logo au format Autodesk (pour impression 3D notamment)
 * **pdf** : [logo upssitech en pdf](logoUpssitech.pdf), logo vectorisé
 * **png** :
-  * (**nouveau**)[logo upssitech en png](UT-UPSSITECH.png)
+  * (**nouveau**) [logo upssitech en png](UT-UPSSITECH.png)
   * [logo upssitech en png](logoUpssitech.png)
 * **svg** :
   * (**nouveau**) [logo upssitech en svg](UT-UPSSITECH.svg), logo vectorisé
